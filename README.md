@@ -5,28 +5,31 @@
 ## 国内
 
 ### 企業
-
-| Title | Url |
-| :-- | :-- |
-| | |
-
+- https://www.youtube.com/c/GoogleDevelopersJapan
+- https://www.youtube.com/c/LINEDevelopersJapan
+- https://www.youtube.com/c/mercaridevjp
 
 ### コミュニティ
-| Title | Url |
-| :-- | :-- |
-| | |
 
+- https://www.youtube.com/c/DroidKaigi
+- https://www.youtube.com/channel/UCjDFW0wOM-3G4CxG3tSHKZA
+- https://www.youtube.com/c/iOSDCJapan
+
+### その他
+- https://www.youtube.com/c/haktomzoh
+- https://www.youtube.com/channel/UCMsstGhINXdpMqo9tsElCMQ
+- https://www.youtube.com/c/denatech
 
 ## 海外
 
 ### 企業
-
-| Title | Url |
-| :-- | :-- |
-| | |
+- https://www.youtube.com/googlecode
 
 ### コミュニティ
 
-| Title | Url |
-| :-- | :-- |
-| | |
+- https://www.youtube.com/c/AndroidDevelopers
+- https://www.youtube.com/c/firebase
+- https://www.youtube.com/c/flutterdev
+
+### その他
+
